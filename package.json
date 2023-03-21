@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mc4107/backendApp/issues"
   },
-  "homepage": "https://github.com/mc4107/backendApp#readme"
+  "homepage": "https://github.com/mc4107/backendApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
